@@ -1,13 +1,13 @@
 {
   "name": "page-bot",
   "version": "1.0.0",
-  "description": "A Powerful Page Bot",
+  "description": "A Powerful Facebook Page Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo Error: no test exit 1",
     "start": "node index.js"
   },
-  "keywords": ["page","page bot"],
+  "keywords": ["Facebook","facebook page bot","fb","fb page bot","page","page bot"],
   "author": "Dip To",
   "license": "ISC",
   "dependencies": {
